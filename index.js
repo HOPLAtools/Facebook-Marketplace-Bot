@@ -17,6 +17,8 @@
 // @require https://cdnjs.cloudflare.com/ajax/libs/dialog-polyfill/0.5.6/dialog-polyfill.min.js
 // @require https://cdn.trackjs.com/agent/v3/latest/t.js
 // @require https://login.hopla.to/js/hopla-login.js
+// @updateURL https://raw.githubusercontent.com/HOPLAtools/Facebook-Marketplace-Bot/main/index.js
+// @downloadURL https://raw.githubusercontent.com/HOPLAtools/Facebook-Marketplace-Bot/main/index.js
 // ==/UserScript==
 
 (function() {
