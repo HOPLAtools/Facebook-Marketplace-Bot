@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Facebook Phones.Trade Bot
 // @namespace    http://tampermonkey.net/
-// @version      2.28
+// @version      2.29
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.facebook.com/*
